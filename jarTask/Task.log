@@ -1,0 +1,39 @@
+2022-07-05 17:13:46,000 INFO  jartask.Function  - Program is started
+  2022-07-05 17:14:29,977 INFO  jartask.CreateEmployee  - Driver is connected
+  2022-07-05 17:15:18,026 INFO  jartask.Function  - Program is started
+  2022-07-05 17:15:38,002 INFO  jartask.CreateEmployee  - Driver is connected
+  2022-07-05 17:16:29,796 INFO  jartask.CreateEmployee  - Driver is connected
+  2022-07-05 17:17:08,111 INFO  jartask.CreateEmployee  - Successfully Inserted
+  2022-07-05 17:23:54,714 INFO  jartask.CreateEmployee  - Driver is connected
+  2022-07-05 17:25:56,427 INFO  jartask.ModifyEmployee  - Driver is connected
+  2022-07-05 17:26:26,920 INFO  jartask.ModifyEmployee  - Sucessfully modify the details
+  2022-07-05 17:26:26,920 INFO  jartask.Employee  - Modify method is initated
+  2022-07-05 17:27:22,849 INFO  jartask.CreateEmployee  - Driver is connected
+  2022-07-05 17:28:00,159 INFO  jartask.CreateEmployee  - Successfully Inserted
+  2022-07-05 17:28:00,159 INFO  jartask.Employee  - Create method is initated
+  2022-07-05 17:28:18,800 INFO  jartask.DeleteEmployee  - Driver is connected
+  2022-07-05 17:28:39,734 INFO  jartask.DeleteEmployee  - Driver is connected
+  2022-07-05 17:28:44,835 INFO  jartask.DeleteEmployee  - deleted the details
+  2022-07-05 17:28:44,835 INFO  jartask.Employee  - Delete method is initated
+  2022-07-05 17:53:59,960 INFO  jartask.CreateEmployee  - Driver is connected
+  2022-07-05 17:56:42,763 INFO  jartask.CreateEmployee  - Successfully Inserted
+  2022-07-05 17:58:18,286 INFO  jartask.CreateEmployee  - Driver is connected
+  2022-07-05 17:58:53,134 INFO  jartask.ModifyEmployee  - Driver is connected
+  2022-07-05 17:59:02,016 WARN  jartask.ModifyEmployee  - Please enter the Correct EmployeeType
+  2022-07-05 17:59:02,016 INFO  jartask.ModifyEmployee  - Sucessfully modify the details
+  2022-07-05 18:00:09,474 INFO  jartask.DeleteEmployee  - Driver is connected
+  2022-07-05 18:00:24,837 INFO  jartask.DeleteEmployee  - deleted the details
+  2022-07-05 18:04:16,700 INFO  jartask.ListEmployee  - Driver is connected
+  2022-07-05 18:04:16,741 INFO  jartask.ListEmployee  - list of employee is display
+  2022-07-05 18:04:16,741 INFO  jartask.ListEmployee  - list of employee is display
+  2022-07-05 18:04:16,741 INFO  jartask.ListEmployee  - list of employee is display
+  2022-07-05 18:15:45,972 INFO  jartask.CreateEmployee  - Driver is connected
+  2022-07-05 18:16:01,799 INFO  jartask.CreateEmployee  - Successfully Inserted
+  2022-07-05 18:17:26,530 INFO  jartask.ListEmployee  - Driver is connected
+  2022-07-05 18:17:26,551 INFO  jartask.ListEmployee  - list of employee is display
+  2022-07-05 18:17:26,551 INFO  jartask.ListEmployee  - list of employee is display
+  2022-07-05 18:17:26,551 INFO  jartask.ListEmployee  - list of employee is display
+  2022-07-05 18:17:26,551 INFO  jartask.ListEmployee  - list of employee is display
+  2022-07-05 18:17:26,551 INFO  jartask.ListEmployee  - list of employee is display
+  2022-07-05 18:17:26,552 INFO  jartask.ListEmployee  - list of employee is display
+  
